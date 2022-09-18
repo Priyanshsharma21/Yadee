@@ -1,0 +1,8 @@
+body {
+  background-color: rgba(0,183,255, 1);
+  background: linear-gradient(to bottom, #221E1D,#221E1D);
+}
+
+::-webkit-scrollbar{
+  width: 5px;
+}
