@@ -6,3 +6,314 @@ body {
 ::-webkit-scrollbar{
   width: 5px;
 }
+
+.event_date_picker{
+  width: 100% !important;
+  border: 1px solid #808080a3 !important;
+}
+
+.ant-space-item{
+  width: 100% !important;
+}
+
+.eventSpacer{
+  width: 98.5% !important;
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.main_title{
+  background: linear-gradient(to right, #ffea00 0%, #f4ae16 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.app_bar_main{
+  background:linear-gradient(to right, rgb(0, 0, 0), rgb(179, 0, 255))
+}
+
+.form_paper{
+  /* background:linear-gradient(to bottom,#ffffff 50%,black) */
+  background: #282828 !important;
+}
+
+.create_btn{
+  color: rgb(240, 240, 240) !important;
+  font-weight: 600 !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  border: none !important;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.542) !important;
+  background: linear-gradient(to right, rgb(27, 96, 255), rgb(187, 0, 255));
+  border-radius: 20px !important;
+}
+
+
+.app__container{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.nextui-c-egxOLa,.nextui-navbar-container{
+  background: rgba(0, 0, 0, 0.37) !important;
+}
+
+.app_main{
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, #221E1D,#221E1D);
+}
+
+.logo_box{
+  display: flex !important;
+  align-items: center !important;
+
+}
+
+.upshot{
+  font-size: 2rem;
+  padding-bottom: 1rem;
+}
+
+.logo{
+  margin-right: 0.5rem;
+}
+
+.main_lo{
+  color: red !important;
+  font-size: 2rem;
+}
+
+
+.make_me_style{
+  color: white !important;
+  
+}
+
+.make_me_style label,input,textarea{
+  color: #aaa !important;
+}
+
+.mmr{
+  border: 1px solid #757575 !important; 
+}
+
+.mmr input{
+  color: #aaa !important;
+
+}
+
+.file_make{
+  color: #aaa !important;
+}
+
+.date_me{
+  background-color: #282828 !important;
+  border: 1px solid #757575 !important; 
+}
+
+.ant-picker-suffix{
+  color: white !important;
+}
+
+.logo_main_three{
+  /* width: 235px;
+  margin-top: 0.4rem;
+  height: 90px; */
+  margin-top: 1rem;
+}
+
+.make_me_col{
+  display: flex !important;
+}
+
+
+
+.earth{
+  width: 100%;
+  height:100%;
+}
+
+.create{
+  width: 20px;
+  height: 20px;
+  border-radius:100%;
+}
+
+.same_logo_color{
+  color: rgb(221, 221, 221);
+  font-size: 1.5rem !important;
+}
+
+.nav_box{
+  background: black;
+}
+
+.login,.create{
+  width: 40px;
+  height: 40px;
+  margin-top: 1rem;
+  background: linear-gradient(to top, rgb(0, 0, 0), rgb(0, 0, 0));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius:100%;
+}
+
+.create,.login:hover{
+  background: rgb(71, 71, 71);
+}
+.create:hover{
+  background: rgb(71, 71, 71);
+}
+
+.create{
+  background: linear-gradient(to top, rgb(0, 0, 0), rgb(0, 0, 0));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0.8rem;
+}
+
+
+.user{
+  display: flex;
+}
+
+.name_of_user,.user_img{
+  display: flex;
+  align-items: center;
+}
+
+.user_img{
+  margin-right: 0.3rem;
+}
+
+
+
+.all_inp{
+  color: white !important;
+  margin-top: 1rem !important;
+  border: 1px solid #454545 !important;
+  width: 100% !important;
+
+}
+
+.auth_main-text{
+  color: white !important;
+  
+}
+
+.auth_main-text_imp{
+  color: white;
+  margin-top: 0.5rem !important;
+}
+
+input[label="First Name"]{
+  color: white;
+}
+
+.MuiFormLabel-root {
+  color: rgb(186, 186, 186) !important;
+}
+
+.google_btn{
+  width: 373px;
+  height: 39px;
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+
+.name_of_user{
+  color: white;
+}
+
+.logout_logo{
+  font-size: 2rem !important;
+  color: red !important;
+}
+
+.logout{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor:pointer;
+}
+
+.name_of_user{
+  margin: 0px 1rem;
+}
+
+.google_login{
+  display: flex;
+  justify-content: center;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+}
+
+.g_btn{
+  width: 100% !important;
+}
+
+.card_click_event{
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.search_me{
+  background: #282828 !important;
+}
+
+.search_inp{
+  border: 1px solid #3d3d3d !important;
+}
+
+.pagi_page{
+  background: #282828 !important;
+}
+
+.MuiPagination-ul li a{
+  color: rgb(194, 194, 194) !important;
+}
+
+.like_del{
+  display: flex !important;
+  flex-direction: initial !important;
+}
+
+.main_post_section{
+  background: #282828 !important;
+}
+
+.post_main_typo{
+  color: rgb(227, 227, 227) !important;
+}
+
+.post_main_typo_tag{
+  color: rgb(54, 54, 255) !important;
+}
+
+.post_text_deme_color{
+  color: rgb(196, 196, 196) !important;
+}
+
+
+.admin_or_not{
+  display:flex !important;
+  justify-content: flex-start !important;
+  text-align: start !important;
+}
+
+.isAdmin{
+  display:flex;
+  color: #bdbdbd;
+}
+
+.admin{
+  margin-right: 0.8rem;
+  margin-left: 0.3rem;
+}

@@ -3,6 +3,7 @@ import { makeStyles } from '@material-ui/core/styles';
 export default makeStyles({
   media: {
     height: 0,
+    width:'100%',
     paddingTop: '56.25%',
     backgroundColor: 'rgba(0, 0, 0, 0.5)',
     backgroundBlendMode: 'darken',
@@ -28,7 +29,7 @@ export default makeStyles({
     color: '#3A9AEC',
   },
   desc_style:{
-    color: '#F5F5F5',
+    color: '#aaa',
   },
   like:{
     color:'#ffb800',
@@ -58,10 +59,24 @@ export default makeStyles({
   },
   title: {
     padding: '0 16px',
+    color : '#f1f1f1',
+    marginBottom : '0px',
+  },
+  eventDate:{
+    color : '#aaa',
+    fontSize : '12px',
+    padding: '0 16px',
+  },
+  creator : {
+    color : '#f1f1f1'
+  },
+  desc : {
+    color : '#aaa'
   },
   cardActions: {
     padding: '0 16px 8px 16px',
     display: 'flex',
+    flexDirection: 'column',
     justifyContent: 'space-between',
   },
 });
